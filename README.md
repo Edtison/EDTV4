@@ -173,6 +173,24 @@ EDTV4 documents one specific machine and its tested configuration. Before reusin
 
 Publication permission for the EDTV4 project files has been granted. **No open-source license has been selected for this repository yet**, so the repository should not be interpreted as granting reuse rights beyond applicable law and any explicit permission from the rights holders.
 
+## License
+
+EDTV4 uses different licenses for hardware, software and documentation:
+
+- **Hardware design, CAD files, manufacturing drawings and BOM:**  
+  [CERN-OHL-W-2.0](LICENSES/CERN-OHL-W-2.0.txt)
+
+- **Klipper configuration, macros and software:**  
+  [GPL-3.0](LICENSES/GPL-3.0-only.txt)
+
+- **Documentation, manuals and original project media:**  
+  [CC BY 4.0](LICENSES/CC-BY-4.0.txt)
+
+Third-party logos, trademarks, screenshots and other externally sourced
+material are excluded from these licenses.
+
+See [LICENSE.md](LICENSE.md) for details.
+
 ## Project context and credits
 
 - Developed at **University of Applied Sciences Upper Austria (FH OÖ), Campus Wels**.

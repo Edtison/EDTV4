@@ -22,3 +22,10 @@ The configuration expects `mainsail.cfg` to be available on the Klipper installa
 ## Configuration authority
 
 For public EDTV4 documentation, the current `printer.cfg` is treated as the authoritative source for installed firmware settings and configured limits. Older manuals or project notes may contain historical values.
+
+## License
+
+The configuration files and macros in this directory are licensed under
+GPL-3.0-only.
+
+See [`../../LICENSE.md`](../../LICENSE.md) for details.
