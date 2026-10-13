@@ -1,0 +1,64 @@
+﻿Pos.;Bezugsquelle;Marke / Hersteller;Bezeichnung;Hersteller-Nr.;Artikelnummer;Stückzahl;Link
+1;Mouser;Phoenix Contact;DIN-Schienennetzteile DIN-Schienennetzteile PS-EE-2G/1AC/24DC/240W/SC;1234304;651-1234304;2;https://www.mouser.at/ProductDetail/Phoenix-Contact/1234304?qs=Imq1NPwxi76b%252BPi1vyrSkA%3D%3D
+2;Mouser;Mean Well;DIN-Schienennetzteil MEAN WELL NDR-240-48;NDR-480-48;709-NDR480-48;1;https://www.mouser.at/ProductDetail/MEAN-WELL/NDR-480-48?qs=5CXH7KqCnSiNccb69MPRlQ%3D%3D
+3;Mouser;Wurth Electronic;Spannungsversorgungsleitungsfilter WE-CLFS Line Filter 20A 10 mOhm Faston;810912020;710-810912020;1;https://www.mouser.at/ProductDetail/Wurth-Elektronik/810912020?qs=u16ybLDytRboXbB6qfUtMw%3D%3D
+4;Mouser;Panasonic Industrial Devices;Halbleiterrelais - Industrielle Montage 40A, 75V to 250V Screw term Zerocross;AQA611VL;769-AQA611VL;1;https://www.mouser.at/ProductDetail/Panasonic-Industrial-Devices/AQA611VL?qs=sGAEpiMZZMsqIr59i2oRcgb9kI4L54xAnZ2H3rjQWfo%3D
+5;Conrad;Pfannenberg;Pfannenberg FLH-T 800 HEATER 800W 230 AC Schaltschrank-Gebläseheizung 230 V/AC;;2181560 - 62;1;https://www.conrad.at/de/p/pfannenberg-flh-t-800-heater-800w-230-ac-schaltschrank-geblaeseheizung-230-v-ac-max-800-w-l-x-b-x-h-164-x-150-x-100-m-2181560.html#productDownloads
+6;3D Jake;E3D;Revo Hemera XS Highflow X;;E3D-REVO-HXS-HFX;1;https://www.3djake.at/e3d/revo-hemera-xs-1?sai=17926
+7;3D Jake;E3D;Revo Hemera XS Genius Metal, PT1000;;E3D-REVO-HXS-GEN-M-PT1K;1;https://www.3djake.at/e3d/revo-hemera-xs-1?sai=17938
+8;3D Jake;BTT;Bigtreetech Octopus Pro, H723, Mainboard;;BIQU-1020000408;1;https://www.3djake.at/bigtreetech/octopus-pro?sai=14168
+9;3D Jake;BTT;Bigtreetech Eddy USB V1.0 Nivellierungssensor;;BIQU-1060000662;1;https://www.3djake.at/bigtreetech/eddy-usb-v10
+10;Reichelt;Siemens;Wahlschalter, 1 NO, 2 Schaltstellungen, rastend;3SU1100-2BF60-1BA0;ACT 2BF60-1BA0;2;https://www.reichelt.at/at/de/shop/produkt/wahlschalter_1_no_2_schaltstellungen_rastend-155340?nbc=1&q=%2Fat%2Fde%2Fshop%2Fwahlschalter-1-no-2-schaltstellungen-rastend-act-2bf60-1ba0-p155340.html
+11;Reichelt;Siemens;Schildträger, schwarz, kleben;3SU19000AG100AA0;TRAEGER KL;2;https://www.reichelt.at/at/de/shop/produkt/schildtraeger_schwarz_kleben-157675?nbc=1&q=%2Fat%2Fde%2Fshop%2Fschildtraeger-schwarz-kleben-traeger-kl-p157675.html
+12;Reichelt;Siemens;INSTA-Schütz 2 NO, 230 V AC / 20 A;5TT5800-0;SIE 5TT5800-0;1;https://www.reichelt.at/at/de/shop/produkt/insta-schuetz_2_no_230_v_ac_20_a-319228
+13;Reichelt;Raspberry Pi;Raspberry Pi 4 B, 4x 1,5 GHz, 2 GB RAM, WLAN, BT;PI4 MODEL B/2GB;RASP PI 4 B 2GB;1;https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_4_b_4x_1_5_ghz_2_gb_ram_wlan_bt-259919?q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-4-b-4x-1-5-ghz-2-gb-ram-wlan-bt-rasp-pi-4-b-2gb-p259919.html&search=PI4%20MODEL%20B%2F2GB
+14;Reichelt;SanDisk;MicroSDHX-Speicherkarte, 64GB;SDSQXAH-064G-GN6MA;SDSQXAH064GGN6MA;1;https://www.reichelt.at/at/de/shop/produkt/microsdhx-speicherkarte_64gb-358282
+15;Reichelt;Delock;"Hutschiene 35 x 7,5 mm (10"") Stahl ungelocht";66186;DELOCK 66186;2;https://www.reichelt.at/at/de/shop/produkt/hutschiene_35_x_7_5_mm_10_stahl_ungelocht-273684?nbc=1&q=%2Fat%2Fde%2Fshop%2Fhutschiene-35-x-7-5-mm-10-stahl-ungelocht-delock-66186-p273684.html
+16;Reichelt;;Verdrahtungskanal, 37,5x25 mm, 1000 mm;;DIN37,5-25;2;https://www.reichelt.at/at/de/shop/produkt/verdrahtungskanal_37_5x25_mm_1000_mm-338242?nbc=1&q=%2Fat%2Fde%2Fshop%2Fverdrahtungskanal-37-5x25-mm-1000-mm-din37-5-25-p338242.html
+17;Reichelt;;Verdrahtungskanal, 37,5x37,5 mm, 1000 mm;;DIN37,5-37,5;2;https://www.reichelt.at/at/de/shop/produkt/verdrahtungskanal_37_5x37_5_mm_1000_mm-338243?nbc=1&q=%2Fat%2Fde%2Fshop%2Fverdrahtungskanal-37-5x37-5-mm-1000-mm-din37-5-37-5-p338243.html
+18;Reichelt;Phoenix Contact;Reihenklemmen Grau ST Reihenklemmen 0,08-2,5mm², grau;3031212;ST 2,5 GR;10;https://www.reichelt.at/at/de/shop/produkt/st_reihenklemmen_0_08-2_5mm_grau-55965
+19;Reichelt;Phoenix Contact;Reihenklemmen Blau ST Reihenklemmen 0,08-2,5mm², blau;3031225;ST 2,5 BL;8;https://www.reichelt.at/at/de/shop/produkt/st_reihenklemmen_0_08-2_5mm_blau-55966
+20;Reichelt;Phoenix Contact;Reihenemmen Erdung;3031238;ST 2,5 PE;5;https://www.reichelt.at/at/de/shop/produkt/st_reihenklemmen_0_08-2_5mm_gruen_gelb-55967
+21;Reichelt;Schlegel;Not-Aus-Taster - 2 Ö;FRVKOO;FRVKOO;1;https://www.reichelt.at/at/de/shop/produkt/not-aus-taster_-_2_-168193
+22;Reichelt;Schneider Electric;Schaltschrank-Steckdose Acti9 iPC, 2P+E, 16 A, 250 V AC;A9A15310;A9A15310;1;https://www.reichelt.at/at/de/shop/produkt/schaltschrank-steckdose_acti9_ipc_2p_e_16_a_250_v_ac-346161
+23;Reichelt;Raspberry Pi;Raspberry Pi - Netzteil, 5,1 V, 3,0 A, USB Type-C, EU-Stecker, s;KSA-15E-051300-HE/EU/BK;RPI PS 15W BK EU;1;https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_netzteil_5_1_v_3_0_a_usb_type-c_eu-stecker_s-260010
+24;Reichelt;Noctua;NOCTUA NF-P12 redux 1300 Gehäuselüfter, 120 mm;NF-P12 REDUX-1300;NO NF-P12R 1300;7;https://www.reichelt.at/at/de/shop/produkt/noctua_nf-p12_redux_1300_gehaeuseluefter_120_mm-316238
+25;Reichelt;Lapp;Schaltlitze H07V-K, 1,5 mm², 100 m, schwarz;4520011/100;H07VK 1,5SW-100;1;https://www.reichelt.at/at/de/shop/produkt/schaltlitze_h07v-k_1_5_mm_100_m_schwarz-165130#closemodal
+26;Reichelt;Panasonic;Snap-Action-Mikroschalter, 1x UM, Flachhebel;AV32143AT;AV 32143 AT;8;https://www.reichelt.at/at/de/shop/produkt/snap-action-mikroschalter_1x_um_flachhebel-191400
+27;Reichelt;Joy-it;"Entwicklerboards - Display LCD-Touch, 7"", HDMI, GT811";RB-LCD-7-2;DEBO LCD 7 HDMI;1;https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_display_lcd-touch_7_hdmi_gt811-202677
+28;Reichelt;Joy-it;Entwicklerboards - Spannungsregler, DC/DC-Wandler;SBC-BUCK01;DEBO DCDC DOWN 5;2;https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_spannungsregler_dc_dc-wandler-333853
+29;Reichelt;Sanberg;Webcam USB Webcam Chat 1080p Full HD;134-15;SANDBERG 134-15;1;https://www.reichelt.at/at/de/shop/produkt/webcam_usb_webcam_chat_1080p_full_hd-292018
+30;Reichelt;PCE Connection;Gummi-Stecker Taurus2, Typ F - CEE 7/4, schwarz/rot;0511-SR;TAUR2 0511-SR;1;https://www.reichelt.at/at/de/shop/produkt/gummi-stecker_taurus2_typ_f_-_cee_7_4_schwarz_rot-277257
+31;Reichelt;Schurter;Kaltgerätekupplung gerade, 16 A, C19;47950000;KKB 16-1;1;https://www.reichelt.at/at/de/shop/produkt/kaltgeraetekupplung_gerade_16_a_c19-53029
+32;Reichelt;Schurter;Kaltgerätestecker horizontaler Flansch, 16 A, C20;47989000;KES 16-1;1;https://www.reichelt.at/at/de/shop/produkt/kaltgeraetestecker_horizontaler_flansch_16_a_c20-53030
+33;Stepperonline;;Kit = Treiber + Motoren;;1-CL57T-S30A-V41;2;https://www.omc-stepperonline.com/de/ts-serie-3-0-nm-424-92oz-in-1-achse-closed-loop-stepper-cnc-kit-nema-23-motor-treiber-1-cl57t-s30a-v41
+34;Stepperonline;;Kit = Treiber + Motoren;;1-CL42T-S05-V41;2;https://www.omc-stepperonline.com/de/1-achsen-schrittmotor-cnc-kit-mit-geschlossenem-regelkreis-52ncm-73-64oz-in-nema-17-motor-und-treiber-1-cl42t-s05-v41
+35;Stepperonline;;Stepper;;1-CL42T-S08-V41;2;https://www.omc-stepperonline.com/de/1-achsen-schrittmotor-cnc-kit-mit-geschlossenem-regelkreis-80ncm-113-29oz-in-nema-17-motor-und-treiber-1-cl42t-s08-v41
+36;Stepperonline;;Lange Kabel;;CE3-M3-20;4;https://www.omc-stepperonline.com/de/2-7m-106-awg20-motor-und-encoder-verlaengerungskabelsatz-fuer-nema-23-and-24-closed-loop-schrittmotor-ce3-m3-20
+37;Myaluprofil.de;;Aluminiumprofil 20x40 Nut 5 I-Typ;;H1054020;1;
+38;Myaluprofil.de;;Aluminiumprofil 20x40 Nut 5 I-Typ;;H1054020;2;
+39;Myaluprofil.de;;Aluminiumprofil 20x40 Nut 5 I-Typ;;H1054020;8;
+40;Myaluprofil.de;;Aluminiumprofil 40x40 Nut 5 I-Typ;;H1054040;4;
+41;Myaluprofil.de;;Aluminiumprofil 40x40 Nut 5 I-Typ;;H1054040;9;
+42;Myaluprofil.de;;Winkelsatz 20x40 ZN Nut 5 I-Typ;;H205WS40;100;
+43;Myaluprofil.de;;Nutenstein mit Steg Nut 5 I-Typ M4;;H205NSMS4;250;
+44;Myaluprofil.de;;Nutenstein mit Steg Nut 5 I-Typ M3;;H205NSMS3;150;
+45;Myaluprofil.de;;Nutenstein mit Steg Nut 5 I-Typ M5;;H205NSMS5;50;
+46;Ludwig Meister (Normteile);Ganter;GANTER Scharniere GN237, verlängert;;237-ZD-63-50-A-SW;3;
+47;Ludwig Meister (Normteile);Ganter;Flachscharniere / Kegelsenkungen / -90°, 180° / Material wählbar / Beschichtung wählbar;;480GN237-AL-40-40-A-EL;4;
+48;Ludwig Meister (Normteile);Ganter;Verriegelungen mit Sicherheitsfunktion, Betätigung mit Steckschlüssel;;480GN115.9-DK-32-SW;2;
+49;Ludwig Meister (Normteile);Elesa / Ganter;GANTER ELESA Bügelgriffe GN725;;480GN725-132-M8;5;
+50;Ludwig Meister (Normteile);Blickle;BLICKLE Apparate-Lenkrolle mit Anschraubplatte;;LKPA-PATH 101KF-FI;4;
+51;Mon-Tec (Blechteile Verzinkt);;Bodenplatte;;;1;
+52;Mon-Tec (Blechteile Verzinkt);;Montageplatte_Lenkrollen_Fuss;;;4;
+53;Mon-Tec (Blechteile Verzinkt);;Motorhalter Z-Achse Nema 23;;;2;
+54;Mon-Tec (Blechteile Verzinkt);;Winkel_Führung_zu_Träger;;;4;
+55;Mon-Tec (Blechteile Verzinkt);;Druckbett Träger;;;1;
+56;Mon-Tec (Blechteile Verzinkt);;Blech Spindelmutter zu Träger;;;2;
+57;Mon-Tec (Blechteile Verzinkt);;Blechhalterung Y-Motoren;;;2;
+58;Mon-Tec (Blechteile Verzinkt);;Mitnehmer Kabelschlepp;;;2;
+59;Mon-Tec (Blechteile Verzinkt);;Mitnehmer Kabelschlepp Extruder;;;2;
+60;Mon-Tec (Blechteile Verzinkt);;Riemenspanner;;;2;
+61;Mon-Tec (Blechteile Verzinkt);;BLL-Touch HalterungsBlech;;;1;
+62;Mon-Tec (Blechteile Verzinkt);;Bodenplatte_Winkel_Verstaerkung;;;2;
+63;CR3D (Druckbett);;Druckbett 500x500 inkl Bauplatte und Heizmatte;;;1;

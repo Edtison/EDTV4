@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
+# Text normalization
 * text=auto
+*.md text eol=lf
+*.csv text eol=lf
+*.cfg text eol=lf
+
+# Binary engineering/document files
+*.zip binary
+*.stp binary
+*.step binary
+*.dwg binary
+*.pdf binary
+*.xlsx binary
+*.orca_printer binary
+*.png binary
+*.jpg binary
+*.jpeg binary

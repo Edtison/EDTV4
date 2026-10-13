@@ -1,0 +1,13 @@
+# OS / file manager
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary/editor files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Local source documents not intended for publication
+docs/manuals/_source/
